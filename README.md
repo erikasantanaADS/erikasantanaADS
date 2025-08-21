@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Erika Santana  
 
-<!--
-**erikasantanaADS/erikasantanaADS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+📚 Estudante de **Pedagogia**  
+💻 Aspirante a **desenvolvedora de software e aplicativos**  
+🐍 Com foco em aprender e aprimorar minhas habilidades em **Python**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Sobre mim
+Sou apaixonada por tecnologia e educação, buscando sempre unir essas duas áreas para criar soluções inovadoras.  
+Atualmente, estou em constante aprendizado, desenvolvendo projetos acadêmicos e explorando boas práticas de programação.  
+
+---
+
+## 🔧 Tecnologias & Interesses
+- Python (em foco de estudos)  
+- Desenvolvimento de software  
+- Aplicações web  
+- Educação e tecnologia  
+
+---
+
+## 🌐 Conecte-se comigo
+[LinkedIn](https://www.linkedin.com/in/erika-santana-2626521a2/)   
+
+---
+✨ _"Aprender, criar e compartilhar conhecimento são os pilares que me motivam todos os dias."_ 
 -->
