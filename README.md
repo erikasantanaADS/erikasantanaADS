@@ -24,6 +24,4 @@ Atualmente, estou em constante aprendizado, desenvolvendo projetos acadêmicos e
 ## 🌐 Conecte-se comigo
 [LinkedIn](https://www.linkedin.com/in/erika-santana-2626521a2/)   
 
----
-✨ _"Aprender, criar e compartilhar conhecimento são os pilares que me motivam todos os dias."_ 
--->
+✨ _"Aprender, criar e compartilhar conhecimento são os pilares que me motivam todos os dias."_
